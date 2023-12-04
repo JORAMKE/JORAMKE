@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JORAMKE
 - 👀 I’m interested in ...web development and cyber security 
-- 🌱 I’m currently learning ...BsC Computer science 
+- 🌱 I’m currently learning ...BsC Computer science . HTML Css
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ... jorammusau25@gmail.com
 
