@@ -1,0 +1,57 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<style>
+    body{
+        background-color:skyblue;
+    }
+    
+</style>
+
+<h1 style="color:red;text-align:center;">WEB DEV PRACTICE</h1>
+
+<h2 style="color:magenta;text-align:center;font-family:universe;size: 10pt;"> Web development practice</h2>
+
+<p style="font:calibri(body);">Am Joram Musau a first yer student taking computer science.Am a programmer  and a software developer.Very soon i will be a senior and a genius in the market and the field.</P>
+
+<p>Am always trying my best to be one of the best in the field.Above all am still training on hacking using the python tool.One day am gonna become the chief hacker in the country. Am gonna hack world bank and steal millions of money then move to Venezuela and spend the rest of my life there with my family.Am telling you i will be a softlife ambassador just wait and see.Lazima kijiji ishtuke hata kama masomo inanionyesha moto.Lazima mtii. nawaambia just wait</P>
+
+<p>I also deal with selling of second hand cars and stolen cars.If you have lost a car you can come nikuuzie na bei ya kuongea.Bellow is a sample of the cars I sell:</p>
+
+<img src="C:\Users\User\Downloads\car.mpg.trial.jpeg"
+width="400"
+height="300">
+
+<P>I learned web development from the website bellow.If you too want to learn click here:</p>
+    <style>
+        a:link{
+            color: green;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:visited{
+            color: pink;
+            background-color: transparent;
+            text-decoration: none;
+        }
+    </style>
+
+<a href="https://www.w3schools.com/html">visit w3 schools<a/>
+
+<p style=font-family:calibri(light);">You can as well as google if you like it.The choice is all yours.use the link bellow to google.</p>
+
+<a href="https://www.google.com">Visit chrome></a>
+
+    <p> you can also find me at my email adress :</p>
+
+        <a href="mailto:jorammusau25@gmail.com">send email</a>
+
+      
+    
+
+
+
+</body>
+</html>
