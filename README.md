@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JORAMKE
-- 👀 I’m interested in ...web development and cyber security 
-- 🌱 I’m currently learning ...BsC Computer science . HTML Css
-- 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ... jorammusau25@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!---
 JORAMKE/JORAMKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
