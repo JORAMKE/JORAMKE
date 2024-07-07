@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Joram+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!---
 JORAMKE/JORAMKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
